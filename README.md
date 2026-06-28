@@ -5,5 +5,5 @@ A new, totally innovative pause menu script. Obviously, since it's a free resour
 <img width="1919" height="1079" alt="aPauseMenu" src="https://github.com/user-attachments/assets/73394666-d915-4516-8aa0-269b10e68a94" />
 
 
-[Docs](https://app.gitbook.com/o/p75TNpe9iQipWZK9Ck01/s/QYLwyDNJXfpHaxk2QKjA/a-series/apausemenu)
+[Docs](https://quantixteam.gitbook.io/documentation/a-series/apausemenu)
 [Discord](https://discord.gg/nZ7d23MA6Q)
